@@ -350,7 +350,7 @@ let x = setInterval(function () {
                 <div class="flame"></div>
             </div>
             <div class="prompt">
-            Coba pencet deh
+            Press the Candle boss!
             </div>
         </div>
     `;
